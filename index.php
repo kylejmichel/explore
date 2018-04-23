@@ -69,7 +69,49 @@
         				<span class="username">exploremuseum</span><br><span class="location">Los Angeles</span>
         			</div>
        		    </div>
-   		      <img src="img/art.gif" id="art" alt=""/>
+   		  <div class="slideshow-container">
+			  <div class="mySlides fade">
+			    <img src="img/1.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/2.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/3.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/4.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/5.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/6.png" id="art">
+			  </div>
+			  <div class="mySlides fade">
+			    <img src="img/7.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/8.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/9.png" id="art">
+			  </div>
+			  <div class="mySlides fade">
+			    <img src="img/10.png" id="art">
+			  </div>
+
+			  <div class="mySlides fade">
+			    <img src="img/11.png" id="art">
+			  </div>
+		</div>
 <div class="instaBottom">
 	    	  <span class="username"><span id="status">135</span> likes</span><br>
        		    	<span style="font-size:14px;line-height:16px;color:#222;"><span style="font-weight:400">exploremuseum</span>&nbsp;&nbsp;Here are some pieces from our favorite Los Angeles artists. Catch them at our latest pop-up, opening in LA on April 20th!</span>
