@@ -1,5 +1,8 @@
 
-    
+      <script src="vendor/p5.min.js"></script>
+        <canvas id="loadingAnimation">
+            <script src="js/sketch.js"></script>
+        </canvas>
      <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="nav">
       <div class="container"><a class="navbar-brand" href="/"><img src="img/explorelogo.png" width="200" id="logo" /></a>
         <button id="burger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
